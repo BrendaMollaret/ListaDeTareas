@@ -15,6 +15,7 @@ public class Tarea {
 	private String nombre;
 	private String fechaVencimiento;
 	private String prioridad;
+	private int contador;
 
 	
 	public Tarea() {
